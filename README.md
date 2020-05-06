@@ -26,12 +26,16 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
   - [Firebase](#Firebase)
   - [Flutter](#Flutter) 
   - [Front-end](#)
+  - [Games](#)
   - [Geral](#Geral) 
+  - [GNU/LInux](#GNU/Linux) 
   - [Go](#Go) 
+  - [Hardware](#Hardware)
   - [IA](#IA)
   - [IOT](#IOT)
   - [Java](#Java) 
   - [JavaScript](#JavaScript) 
+  - [Joomla](#Joomla) 
   - [Laravel](#Laravel) 
   - [.NET](#.NET) 
   - [Node](#Node) 
@@ -95,14 +99,33 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
  - [Fellyph Cintra](https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA)
  - [O Programador](https://www.youtube.com/channel/UCa4Dj04ABMCxBUJ_aWTP9Bg)
 
+### Games
+- [BelJogos](https://www.youtube.com/channel/UCa0FvmBQz0JiActsGs5r5-A)
+- [Crie seus jogos](https://www.youtube.com/channel/UCXxkw9HWPVXVZsi1oTVvKCQ)
+- [GameDevsPA](https://www.youtube.com/channel/UCOzB-hyIPS_DanMritkuHKA)
+
 ### Geral
 - [Área Tech Brasil](https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ)
 - [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
+- [Guarapa EAD](https://www.youtube.com/user/tvguarapa)
 - [Jamilton Damasceno](https://www.youtube.com/user/jamiltondamasceno2)
+- [SQL Norte](https://www.youtube.com/channel/UCBvWwvJQY0JaoHC2YgJrJ2Q)
+- [SUCESU Pará](https://www.youtube.com/channel/UCMIkpa8doWNpZFbUJ95u1EA)
 - [TecNoz by Daniel Cukier](https://www.youtube.com/channel/UChYjkvwc_H1I_SeMPg2KM2w)
+- [TekZoom](https://www.youtube.com/user/tekzoom)
+
+### GNU/Linux
+- [Debian Brasil](https://www.youtube.com/debianbrasil)
+- [Diolinux](https://www.youtube.com/user/Diolinux)
+- [Eriberto Mota](https://www.youtube.com/channel/UCAXxhRve_scJJdJI4cwRSLg)
+- [LinuxTips](https://www.youtube.com/user/linuxtipscanal)
+- [Paulo Kretcheu](https://www.youtube.com/debianbrasil)
 
 ### Go 
 - [Quero Ser Programador](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
+
+### Hardware
+- [Hardware Redes Brasil](https://www.youtube.com/channel/UCp662gGGgJ85g2-9FOVWpgg)
 
 ### IA
 - [O computeiro](https://www.youtube.com/channel/UCVQmfJICjDUZOnfwfyu0qMQ)
@@ -118,6 +141,12 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 - [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 - [TecNoz by Daniel Cukier](https://www.youtube.com/channel/UChYjkvwc_H1I_SeMPg2KM2w)
+
+### Joomla
+- [Joomla pra quem não é de TI](https://www.youtube.com/channel/UCUVWmYXZCO-Y9hJM6PzVl-g)
+- [Júlio Coutinho](https://www.youtube.com/user/cout45)
+- [LeoWg Web](https://www.youtube.com/channel/UCpcZSVLJlSR9d7uu5Muzd_Q)
+- [Uriel dos Santos Souza](https://www.youtube.com/user/urielsouza29)
 
 ### Laravel 
 
@@ -149,6 +178,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Crie seus jogos](https://www.youtube.com/channel/UCXxkw9HWPVXVZsi1oTVvKCQ)
 
 ### Vue 
+- [VueJS Norte](https://www.youtube.com/VueJSNorte)
 
 ### WordPress
 - [Curso em Video](https://www.youtube.com/user/cursosemvideo)
